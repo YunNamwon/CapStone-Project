@@ -1,7 +1,7 @@
 # [Arduino EMG Sensor Visualizing Project]
 
-![Alt text](1.jpg)
-![Alt text](2.jpg)
+![Alt text](img/1.jpg)
+![!\[Alt text\](2.jpg)](img/2.jpg)
 ---
 
 <br>
