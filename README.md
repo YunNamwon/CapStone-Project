@@ -1,6 +1,7 @@
-# [NEXT를 사용한 쇼핑몰 커머스]
+# [Arduino EMG Sensor Visualizing Project]
 
 ![Alt text](1.jpg)
+![Alt text](2.jpg)
 ---
 
 <br>
