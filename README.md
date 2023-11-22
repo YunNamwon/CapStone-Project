@@ -1,6 +1,6 @@
 # [NEXT를 사용한 쇼핑몰 커머스]
 
-![Alt text](image.png)
+![Alt text](1.jpg)
 ---
 
 <br>
