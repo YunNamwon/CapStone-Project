@@ -15,9 +15,10 @@
   - [Client](#client-1)
   - [Server](#server-1)
 - [🧗 Challenges](#-challenges)
-  - [1. React Query를 선택](#1-React-Query를-선택)
-  - [2. Google OAuth와 Next-Auth 활용](#2-Google-OAuth와-Next-Auth-활용)
-  - [3. Mantine Component UI 깨지는 문제](#3-Mantine-Component-UI-깨지는-문제)
+  - [1. 웹소켓 통신 및 백그라운드 데이터 수집](#1-웹소켓-통신-및-백그라운드-데이터-수집)
+  - [2. 웹소켓 라이브러리 활용 / 데이터베이스 ORM 사용](#2-웹소켓-라이브러리-활용-/-데이터베이스-ORM-사용)
+  - [3. 비동기 처리 및 백그라운드 작업](#3-비동기-처리-및-백그라운드-작업)
+  - [4. 실시간 데이터 시각화 및 결과 전송](#3-실시간-데이터-시각화-및-결과-전송)
 - [🙏 마무리하며..](#-마무리하며)
 
 <br>
